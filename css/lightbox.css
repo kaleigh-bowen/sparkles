@@ -1,0 +1,15 @@
+* {
+/* styles in here affect everything!!!! */
+/* fonts from google
+font-family: 'Indie Flower', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+font-family: 'Montserrat', sans-serif;
+box-sizing:border-box;
+
+}
+
+
+.row {
+  margin: 15px;
+}
